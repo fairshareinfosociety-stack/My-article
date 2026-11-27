@@ -1,0 +1,6 @@
+{
+  "name": "Editorial Web Suite: Clear Mind & Lamine Yamal",
+  "description": "Two complete multi-page editorial websites: The Clear Mind Initiative on Youth Digital Wellbeing and a biographical chronicle of footballer Lamine Yamal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
